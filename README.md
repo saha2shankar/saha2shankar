@@ -29,4 +29,3 @@
 <p><a href="https://www.buymeacoffee.com/harishankarsah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishankarsah" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saha2shankar&" alt="saha2shankar" /></p>
-https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif
